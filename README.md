@@ -1,11 +1,12 @@
+![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/NishaJagtap17/odinschool/assets/145129083/4a591127-e9cb-40b3-8d07-ad2356cc09c1)
 # 💫 About Me:
 🔭 Aspiring DATA ANALYST<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning EDA and ML<br>💬 Ask me about POWER BI<br>⚡ Passionate about data driven insights.
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nisha Jagtap) 
-[![HackerRank]()](https://www.hackerrank.com/Nisha_Jagtap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-jagtap1111--/) 
+[![HackerRank](https://github.com/NishaJagtap17/odinschool/assets/145129083/a73d93ac-07ca-4203-bccd-73f3b9f73016)](https://www.hackerrank.com/Nisha_Jagtap)
 
 
 [![](https://visitcount.itsvg.in/api?id=NishaJagtap17&icon=7&color=10)](https://visitcount.itsvg.in)
@@ -15,7 +16,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NishaJagtap17&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NishaJagtap17&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NishaJagtap17&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/?username=NishaJagtap17&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

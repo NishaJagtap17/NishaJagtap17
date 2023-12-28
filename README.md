@@ -1,6 +1,6 @@
 ![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/NishaJagtap17/odinschool/assets/145129083/4a591127-e9cb-40b3-8d07-ad2356cc09c1)
 # 💫 About Me:
-🔭 Aspiring DATA ANALYST<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning EDA and ML<br>💬 Ask me about POWER BI<br>⚡ Passionate about data driven insights.
+🔭 DATA ANALYST INTERN <br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning EDA and ML<br>💬 Ask me about POWER BI<br>⚡ Passionate about data driven insights.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
